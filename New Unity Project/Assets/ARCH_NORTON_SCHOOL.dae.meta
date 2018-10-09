@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 1c2af32dca2e9f24f8c88a17e78d37b9
+timeCreated: 1539015202
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: elementName
+    100004: elementName 1
+    100006: elementName 10
+    100008: elementName 11
+    100010: elementName 12
+    100012: elementName 13
+    100014: elementName 14
+    100016: elementName 15
+    100018: elementName 16
+    100020: elementName 17
+    100022: elementName 18
+    100024: elementName 19
+    100026: elementName 2
+    100028: elementName 20
+    100030: elementName 21
+    100032: elementName 22
+    100034: elementName 23
+    100036: elementName 24
+    100038: elementName 25
+    100040: elementName 26
+    100042: elementName 27
+    100044: elementName 28
+    100046: elementName 29
+    100048: elementName 3
+    100050: elementName 30
+    100052: elementName 31
+    100054: elementName 32
+    100056: elementName 33
+    100058: elementName 34
+    100060: elementName 35
+    100062: elementName 36
+    100064: elementName 37
+    100066: elementName 38
+    100068: elementName 39
+    100070: elementName 4
+    100072: elementName 40
+    100074: elementName 41
+    100076: elementName 42
+    100078: elementName 43
+    100080: elementName 44
+    100082: elementName 5
+    100084: elementName 6
+    100086: elementName 7
+    100088: elementName 8
+    100090: elementName 9
+    400000: //RootNode
+    400002: elementName
+    400004: elementName 1
+    400006: elementName 10
+    400008: elementName 11
+    400010: elementName 12
+    400012: elementName 13
+    400014: elementName 14
+    400016: elementName 15
+    400018: elementName 16
+    400020: elementName 17
+    400022: elementName 18
+    400024: elementName 19
+    400026: elementName 2
+    400028: elementName 20
+    400030: elementName 21
+    400032: elementName 22
+    400034: elementName 23
+    400036: elementName 24
+    400038: elementName 25
+    400040: elementName 26
+    400042: elementName 27
+    400044: elementName 28
+    400046: elementName 29
+    400048: elementName 3
+    400050: elementName 30
+    400052: elementName 31
+    400054: elementName 32
+    400056: elementName 33
+    400058: elementName 34
+    400060: elementName 35
+    400062: elementName 36
+    400064: elementName 37
+    400066: elementName 38
+    400068: elementName 39
+    400070: elementName 4
+    400072: elementName 40
+    400074: elementName 41
+    400076: elementName 42
+    400078: elementName 43
+    400080: elementName 44
+    400082: elementName 5
+    400084: elementName 6
+    400086: elementName 7
+    400088: elementName 8
+    400090: elementName 9
+    2100000: Brick, Common
+    2100002: Concrete Masonry Units
+    2100004: Default Wall
+    2100006: Metal - Stainless Steel
+    2100008: Default material
+    2100010: Metal - Painted - Grey
+    2100012: Metal - Aluminium
+    2100014: Glass
+    2100016: Door - Frame
+    2100018: Door - Panel
+    2100020: Gypsum Wall Board
+    2100022: Aluminum
+    2100024: Metal - Paint Finish - Grey
+    2100026: Metal - Paint Finish - Red
+    2100028: Concrete, Cast-in-Place gray
+    2100030: Default
+    2100032: Acoustic Ceiling Tile 24 x 24
+    2100034: Stucco
+    2100036: Metal Deck
+    2100038: Asphalt Shingle
+    2100040: Metal Stud Layer
+    2100042: Paint - Sienna
+    2100044: Wood - Birch - Solid Stained Light Low Gloss
+    2100046: Sash
+    2100048: Steel - Bard - Beige
+    2100050: Front Grille
+    2100052: Hex Pattern
+    2100054: Clearance Areas
+    2100056: Plastic-Philips-Red
+    2100058: Acrylic-Philips-Clear
+    2100060: Paint-Philips-Black
+    2100062: Aluminum-Philips-Satin
+    2100064: Glass - Cooper Industries - Clear
+    2100066: Metal - Cooper Industries - Steel - White
+    2100068: Metal - Steel
+    2100070: Chainlink
+    2100072: Enameled Cast Iron
+    2100074: Polyvinyl Chloride - Rigid
+    2100076: Metal - Light Gauge
+    2100078: Steel ASTM A992
+    2300000: elementName
+    2300002: elementName 1
+    2300004: elementName 10
+    2300006: elementName 11
+    2300008: elementName 12
+    2300010: elementName 13
+    2300012: elementName 14
+    2300014: elementName 15
+    2300016: elementName 16
+    2300018: elementName 17
+    2300020: elementName 18
+    2300022: elementName 19
+    2300024: elementName 2
+    2300026: elementName 20
+    2300028: elementName 21
+    2300030: elementName 22
+    2300032: elementName 23
+    2300034: elementName 24
+    2300036: elementName 25
+    2300038: elementName 26
+    2300040: elementName 27
+    2300042: elementName 28
+    2300044: elementName 29
+    2300046: elementName 3
+    2300048: elementName 30
+    2300050: elementName 31
+    2300052: elementName 32
+    2300054: elementName 33
+    2300056: elementName 34
+    2300058: elementName 35
+    2300060: elementName 36
+    2300062: elementName 37
+    2300064: elementName 38
+    2300066: elementName 39
+    2300068: elementName 4
+    2300070: elementName 40
+    2300072: elementName 41
+    2300074: elementName 42
+    2300076: elementName 43
+    2300078: elementName 44
+    2300080: elementName 5
+    2300082: elementName 6
+    2300084: elementName 7
+    2300086: elementName 8
+    2300088: elementName 9
+    3300000: elementName
+    3300002: elementName 1
+    3300004: elementName 10
+    3300006: elementName 11
+    3300008: elementName 12
+    3300010: elementName 13
+    3300012: elementName 14
+    3300014: elementName 15
+    3300016: elementName 16
+    3300018: elementName 17
+    3300020: elementName 18
+    3300022: elementName 19
+    3300024: elementName 2
+    3300026: elementName 20
+    3300028: elementName 21
+    3300030: elementName 22
+    3300032: elementName 23
+    3300034: elementName 24
+    3300036: elementName 25
+    3300038: elementName 26
+    3300040: elementName 27
+    3300042: elementName 28
+    3300044: elementName 29
+    3300046: elementName 3
+    3300048: elementName 30
+    3300050: elementName 31
+    3300052: elementName 32
+    3300054: elementName 33
+    3300056: elementName 34
+    3300058: elementName 35
+    3300060: elementName 36
+    3300062: elementName 37
+    3300064: elementName 38
+    3300066: elementName 39
+    3300068: elementName 4
+    3300070: elementName 40
+    3300072: elementName 41
+    3300074: elementName 42
+    3300076: elementName 43
+    3300078: elementName 44
+    3300080: elementName 5
+    3300082: elementName 6
+    3300084: elementName 7
+    3300086: elementName 8
+    3300088: elementName 9
+    4300000: elementName
+    4300002: elementName
+    4300004: elementName
+    4300006: elementName
+    4300008: elementName
+    4300010: elementName
+    4300012: elementName
+    4300014: elementName
+    4300016: elementName
+    4300018: elementName
+    4300020: elementName
+    4300022: elementName
+    4300024: elementName
+    4300026: elementName
+    4300028: elementName
+    4300030: elementName
+    4300032: elementName
+    4300034: elementName
+    4300036: elementName
+    4300038: elementName
+    4300040: elementName
+    4300042: elementName
+    4300044: elementName
+    4300046: elementName
+    4300048: elementName
+    4300050: elementName
+    4300052: elementName
+    4300054: elementName
+    4300056: elementName
+    4300058: elementName
+    4300060: elementName
+    4300062: elementName
+    4300064: elementName
+    4300066: elementName
+    4300068: elementName
+    4300070: elementName
+    4300072: elementName
+    4300074: elementName
+    4300076: elementName
+    4300078: elementName
+    4300080: elementName
+    4300082: elementName
+    4300084: elementName
+    4300086: elementName
+    4300088: elementName
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acoustic Ceiling Tile 24 x 24
+    second: {fileID: 2100000, guid: 7ddca3ecffc8a09479f609e04686e94e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acrylic-Philips-Clear
+    second: {fileID: 2100000, guid: 06ec3fd8580e81c408ebcf733872d18e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum
+    second: {fileID: 2100000, guid: d2881664f186a8940a7c917dcd1b555f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum-Philips-Satin
+    second: {fileID: 2100000, guid: 520fd4bd1e36175498a95c26479c22d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asphalt Shingle
+    second: {fileID: 2100000, guid: 30ad5a0b0d0b8aa4d980efb3d15a4d98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick, Common
+    second: {fileID: 2100000, guid: 8ee210b9db2b41b45b6e2a676fa6e0ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chainlink
+    second: {fileID: 2100000, guid: 683cf83718c23724e836e7f0bffbebcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clearance Areas
+    second: {fileID: 2100000, guid: 40c20166e0987dd4489f7606445174c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete Masonry Units
+    second: {fileID: 2100000, guid: 6f13a56e4305a7f489befd87abc37b86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete, Cast-in-Place gray
+    second: {fileID: 2100000, guid: 77f55f809d2e0624e90df7578759889d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: 96a850d7f68a363439ec7dd819d1b70d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Wall
+    second: {fileID: 2100000, guid: a4d1672c8bb97c44e8d74b7603247795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default material
+    second: {fileID: 2100000, guid: 624509463009e2041896b1a49d83a546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Frame
+    second: {fileID: 2100000, guid: f87714511378d9d48bb572ee6670b33e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Panel
+    second: {fileID: 2100000, guid: 252e81241fb0012419910ef6e7d03092, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enameled Cast Iron
+    second: {fileID: 2100000, guid: b2bd4f3f1b0197042aef5bce7e3f9fdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front Grille
+    second: {fileID: 2100000, guid: 99c46c2822ee540458823c68c03757ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 178e15afde47ed8499df6201bc53e48c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass - Cooper Industries - Clear
+    second: {fileID: 2100000, guid: d5fb858d338c87544804a8993edb1a5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gypsum Wall Board
+    second: {fileID: 2100000, guid: 6c91fd8a24dcacc40b4bb339dad94921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hex Pattern
+    second: {fileID: 2100000, guid: 0f2a7b163587e004384f5b157b3b5d07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Aluminium
+    second: {fileID: 2100000, guid: 6646fab8bcf9f9e40a8f7fc824c04b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Cooper Industries - Steel - White
+    second: {fileID: 2100000, guid: 81d3c65071f745d49babd07b551f7497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Light Gauge
+    second: {fileID: 2100000, guid: 288e82c34e38786489026c64bd9dac07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Paint Finish - Grey
+    second: {fileID: 2100000, guid: c220be80fe4564045aebc8fb7af2d972, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Paint Finish - Red
+    second: {fileID: 2100000, guid: 70e09d9b64d02094a8a0fff7c4086c7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Painted - Grey
+    second: {fileID: 2100000, guid: 36dda223d9c40704991de8b463a2d019, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Stainless Steel
+    second: {fileID: 2100000, guid: cf3bbc6dc82ad6e41a4c07a387af8745, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Steel
+    second: {fileID: 2100000, guid: 76b1ed7f8d9343149a3aff2a48e240e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Deck
+    second: {fileID: 2100000, guid: 5fd2e718a0c815e46839af316e22e468, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Stud Layer
+    second: {fileID: 2100000, guid: 598010910e735774aaf789393a6eb483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint - Sienna
+    second: {fileID: 2100000, guid: 9e56dfa85c07a244eb74b9f5cc6b4770, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint-Philips-Black
+    second: {fileID: 2100000, guid: 043e1685d2de8bf4eb757dc3d9e4a0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic-Philips-Red
+    second: {fileID: 2100000, guid: daff4a2294da2cb48ba04fc4846e7ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Polyvinyl Chloride - Rigid
+    second: {fileID: 2100000, guid: 2a6f1c0896b357e4898dec686ef68013, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sash
+    second: {fileID: 2100000, guid: b7ff66e22334cf6418331fd0044072c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel - Bard - Beige
+    second: {fileID: 2100000, guid: f50c699c28961bd4fb9c95ad87cc9401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel ASTM A992
+    second: {fileID: 2100000, guid: 33b6881113d90004cacb7acb7683caae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stucco
+    second: {fileID: 2100000, guid: e15ce3056c275124a8973a2bcba8acee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood - Birch - Solid Stained Light Low Gloss
+    second: {fileID: 2100000, guid: d3a230a0dc148ba4abba14f21d946687, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
